@@ -1,2 +1,2 @@
-# primeiro-desafio-bootcamp-git-guthub-dio
-Primeiro desafio do bootcamp Decola Tech 2ª edição (Git/GitHub)
+# Primeiro Desafio Bootcamp (git/GutHub) Dio
+Criação do primeiro repositório de Git/GitHub para o Bootcamp Decola Tech 2ª.
